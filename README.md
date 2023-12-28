@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! With over 22 years of experience in the oil industry, I have dedicated my career to the dynamic field of exploration and production. My expertise spans reservoir geophysics, geological modeling, and the design of innovative workflows in Geology and Geophysics (G&G). Beyond my extensive industry experience, I hold a mastery in Big Data, Data Science, and Machine Learning. This GitHub repository is a platform where I share insights, tools, and projects related to these domains. Join me on this journey of exploration, discovery, and continuous learning in the realms of energy and data-driven insights. Feel free to explore the repositories, contribute, and connect with me on topics that resonate with your interests. Let's collaborate and create meaningful solutions at the intersection of technology and the oil and gas industry.
+Welcome to my GitHub profile! 
+With over 22 years of experience in the oil industry, I have dedicated my career to the dynamic field of exploration and production. 
+My expertise spans reservoir geophysics, geological modeling, and the design of innovative workflows in Geology and Geophysics (G&G). 
+Beyond my extensive industry experience, I hold a master's degree in Big Data, Data Science, and Machine Learning. 
+
+This GitHub repository is a platform where I would like to share insights, tools, and projects related to these domains. 
+
+Join me on this journey of exploration, discovery, and continuous learning in energy and data-driven insights. Feel free to explore the repositories, contribute, and connect with me on topics that resonate with your interests. Let's collaborate and create meaningful solutions at the intersection of technology and the oil and gas industry.
 
 <!--
 **fpallottini/fpallottini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
