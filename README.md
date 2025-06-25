@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to my GitHub profile! 
-With over 22 years of experience in the oil industry, I have dedicated my career to the dynamic field of exploration and production. 
+With over 25 years of experience in the oil industry, I have dedicated my career to the dynamic field of exploration and production. 
 My expertise spans reservoir geophysics, geological modeling, and the design of innovative workflows in Geology and Geophysics (G&G). 
 Beyond my extensive industry experience, I hold a master's degree in Big Data, Data Science, and Machine Learning. 
 
